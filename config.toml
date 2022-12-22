@@ -8,18 +8,18 @@ theme = "spectral"
 [params]
 fancyTitle = "感谢有你的时光" # title for frontpage, may include image
 copyright = "Shao"
-description = '在这里测试中文显示<br />可以分行<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
+description = '回头想想2021.12.23<br />它不再是一个普通的日子<br />生命中因为有了你<br />我体验到无与伦比的美妙'
 startbuttonText = "For You"
-startbuttonLink = "https://baidu.com/"
+startbuttonLink = "https://drive.google.com/file/d/1HwWyiKbZdGqHVM2-YG0OAS6H7EExTKrC/view?usp=sharing"
 body_is_markdown = true
 #custom_css = "foo.css"
 images = ["https://images.pexels.com/photos/792167/pexels-photo-792167.jpeg"]
 
 [params.one]
 enable = true
-title = '这里写点什么'
+title = '一年的时间很短<br />以后的日子很长<br />希望能一直陪伴你<br />希望宝宝不再孤独'
 body = '''
-正文可以很长吧.
+
 '''
 
 #[[params.one.icon]]
@@ -42,13 +42,13 @@ enable = true
 
 [[params.two.section]]
 img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = '秋去冬来<br />葱翠小绿,化身一束捧花为我们见证'
+body = ''
 
 [[params.two.section]]
 img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = '望月观空<br />漫天繁星,静静地凝视指引我们向前'
+body = ''
 
 [params.social]
 twitter = ""
