@@ -10,3 +10,6 @@
 [submodule "themes/spectral"]
 	path = themes/spectral
 	url = https://github.com/sbruder/spectral
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://github.com/your-identity/hugo-theme-dimension
